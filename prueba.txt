@@ -1,1 +1,5 @@
 Primer cambio para la rama mohamedamin
+<<<<<<< HEAD
+=======
+Segundo cambio para la rama moustarchid
+>>>>>>> moustarchid
